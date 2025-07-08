@@ -2,11 +2,8 @@ package documentReview;
 
 
 class Car extends Vehicle {
-    void startEngine() {
-    	
-    	
-    	
-        System.out.println("Car engine started.");
+    void startEngine() { 		    	
+        System.out.println("Car engine started with key ignition.");
     }
 
     void stopEngine() {
